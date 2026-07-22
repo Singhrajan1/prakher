@@ -9,4 +9,4 @@ class Mai2n{
             System.out.println(i);
         }
     }
-}
+}//rajan
